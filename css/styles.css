@@ -249,7 +249,7 @@ Navbar
  .nav-btn {
   position: absolute;                    /* Change to fixed to make the icon always visible*/
   top: 2.5%;
-  right: 2.5%;
+  left: 2.5%;
   font-size: 2.5rem;
   color: var(--clr-primary);
   z-index: 1;
